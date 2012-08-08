@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharp", "CSharp", "{AA688B78-D190-4A6B-BC60-EDA00797267E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descartes.CSharp", "CSharp\Descartes.CSharp\Descartes.CSharp.csproj", "{7FD6F63E-C066-4B74-82F3-B804A9B59861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descartes.CSharp.Test", "CSharp\Descartes.CSharp.Test\Descartes.CSharp.Test.csproj", "{8442EDF0-A36D-4986-91F8-6E347068029E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD6F63E-C066-4B74-82F3-B804A9B59861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD6F63E-C066-4B74-82F3-B804A9B59861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD6F63E-C066-4B74-82F3-B804A9B59861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD6F63E-C066-4B74-82F3-B804A9B59861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8442EDF0-A36D-4986-91F8-6E347068029E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8442EDF0-A36D-4986-91F8-6E347068029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8442EDF0-A36D-4986-91F8-6E347068029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8442EDF0-A36D-4986-91F8-6E347068029E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7FD6F63E-C066-4B74-82F3-B804A9B59861} = {AA688B78-D190-4A6B-BC60-EDA00797267E}
+		{8442EDF0-A36D-4986-91F8-6E347068029E} = {AA688B78-D190-4A6B-BC60-EDA00797267E}
+	EndGlobalSection
+EndGlobal
